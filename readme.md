@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Elaine O, a umian student.
+I am Elaine O, an IT stud.
 
 
 ## 🌐 Socials:
