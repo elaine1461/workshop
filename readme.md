@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Elaine, a umian student.
+I am Elaine O, a umian student.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,6 @@ I am Elaine, a umian student.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elaine1461&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
